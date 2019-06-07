@@ -1,0 +1,32 @@
+@import url("//fonts.googleapis.com/css?family=Lobster|Cabin:400,700");
+h1, h2, h3, h4, h5, h6 {
+font-family: 'Lobster', cursive;
+}
+nav {
+background-color: #662166;
+border-color: #5d1f5e;
+    
+}
+.navbar-brand {
+font-family: 'Lobster', cursive;
+color: #fff;
+}
+
+
+h1 small {
+color: #aaa;
+}
+
+a {
+color: rgba(255, 255, 255, 0.8)
+}
+a:hover {
+color:#fff
+}
+
+body {
+   
+font-family: "Cabin", Arial, sans-serif;
+color: #000000;
+background-color:#D3D3D3;
+}
